@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-03T12:11:10 IST" name="Suite" finished-at="2023-08-03T12:11:16 IST" duration-ms="6547">
+    <groups>
+    </groups>
+    <test started-at="2023-08-03T12:11:10 IST" name="Test" finished-at="2023-08-03T12:11:16 IST" duration-ms="6547">
+      <class name="com.sdet.testng.CalculaterTestng">
+        <test-method signature="addTest1()[pri:0, instance:com.sdet.testng.CalculaterTestng@212b5695]" started-at="2023-08-03T12:11:16 IST" name="addTest1" finished-at="2023-08-03T12:11:16 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest1 -->
+        <test-method signature="subTest1()[pri:0, instance:com.sdet.testng.CalculaterTestng@212b5695]" started-at="2023-08-03T12:11:16 IST" name="subTest1" finished-at="2023-08-03T12:11:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subTest1 -->
+      </class> <!-- com.sdet.testng.CalculaterTestng -->
+      <class name="com.sdet.testng.OpenWebsite">
+        <test-method signature="Chrome1()[pri:0, instance:com.sdet.testng.OpenWebsite@5ace1ed4]" started-at="2023-08-03T12:11:10 IST" name="Chrome1" finished-at="2023-08-03T12:11:16 IST" duration-ms="6468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Chrome1 -->
+      </class> <!-- com.sdet.testng.OpenWebsite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
